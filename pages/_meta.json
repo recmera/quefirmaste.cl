@@ -1,15 +1,21 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Inicio",
+
+  "ley": "Ley de Protección de datos en Chile",
+
+  "contribuir": "Sube tu aporte",
+
+  "lista": "Listado",
+
   "about": {
-    "title": "About",
+    "title": "Misión",
     "type": "page"
   },
+
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contacto ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://mail.google.com/mail/?view=cm&source=mailto&to=[rec.mera@gmail.com]",
     "newWindow": true
   }
 }
